@@ -1,0 +1,187 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap");
+
+@import url("https://images6.alphacoders.com/681/681840.jpg");
+
+body {
+  font-family: "Poppins", sans-serif;
+  min-height: 854px;
+  background-image: url("https://images5.alphacoders.com/430/430918.jpg");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  padding-bottom: 20vh;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  width: 550px;
+  margin: 0 auto;
+}
+
+.page-title {
+  color: #ffffff;
+  font-family: "Permanent Marker", cursive;
+  margin: 5px 0;
+  font-size: 700;
+}
+
+button,
+.button-jogar {
+  padding: 0.8rem 1.5rem;
+  margin: 1rem 0;
+  border-radius: 5px;
+  border: none;
+  font-size: 1rem;
+}
+
+.button-jogar:hover {
+  cursor: pointer;
+  transition: 0.5s;
+  background: #280680;
+  color: white;
+  font-weight: bold;
+}
+
+h2 {
+  color: white;
+}
+
+#carta-jogador h3 {
+  text-align: center;
+}
+
+.carta-imagem {
+  border: 1px solid black;
+  height: 100px;
+  margin: 10px;
+}
+
+.carta-imagem img {
+  width: 100%;
+  height: 100%;
+}
+
+.carta-status {
+  height: 160px;
+  margin: 2rem;
+  color: white;
+  z-index: 2;
+}
+
+.carta-status input {
+  margin: 20px 10px;
+}
+
+.resultado-final {
+  color: white;
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weigth: bolder;
+  padding: 1rem;
+  border-radius: 5px;
+  border: 1px solid #311b9250;
+  background-image: url("https://images8.alphacoders.com/739/739036.jpg");
+}
+
+.--spacing {
+  margin-left: 2.5rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.carta-subtitle {
+  z-index: 2;
+  position: absolute;
+  top: 16px;
+  left: 37px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+#cartas {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.carta-status p {
+  margin-bottom: 2rem;
+}
+
+.card {
+  width: 220px;
+  height: 300px;
+  background-image: url("https://images4.alphacoders.com/104/1044085.png");
+  background-size: 100%;
+  background-position: bottom;
+  padding: 20px;
+  border-radius: 7px;
+  box-shadow: 5px 5px 10px #00000050;
+}
+
+.card-imagem {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border: 1px solid #f3e5f550;
+  border-radius: 5px;
+}
+
+.card-info {
+  width: 100%;
+  height: 120px;
+  background-color: #9575cd80;
+  margin-top: 20px;
+  border: 1px solid #f3e5f550;
+  border-radius: 5px;
+}
+
+.info-titulo {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: white;
+  text-transform: uppercase;
+  font-size: 18px;
+  padding: 4px 0;
+  border-bottom: 1px solid #f3e5f550;
+}
+
+.opcoes {
+  width: 100%;
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  text-transform: uppercase;
+  color: white;
+  font-size: 15px;
+}
+
+.atributo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 25px;
+  padding: 0 10px;
+}
+
+.pontuacao {
+  background-color: #9575cd80;
+  border-radius: 10px;
+  line-height: 50px;
+  color: white;
+  background-image: url("https://images8.alphacoders.com/739/739036.jpg");
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+}

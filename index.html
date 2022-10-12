@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Top Trumps </title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<html>
+
+<body>
+  <div class="container">
+    <h1 class="page-title">Top Trumps</h1>
+    <button class="button-jogar" onclick="sortearCarta()" id="btnSortear">Choose Card</button>
+    <button class="button-jogar" type="button" id="btnJogar" onclick="jogar()" disabled="false">Play</button>
+    <button class="button-jogar" type="button" id="btnProxima" onclick="proximaRodada()" disabled="true">Next Round</button>
+    <div id="btnReiniciar"></div>
+    <div class="pontuacao" id="pontuacao"></div>
+    <form id="form">
+      <h2>Choose an Attribute</h2>
+      <div class="wrapper">
+        <div id="carta-jogador"></div>
+        <div id="carta-maquina" class="carta"></div>
+      </div>
+      <div id="resultado"></div>
+    </form>
+  </div>
+</body>
+
+</html>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
