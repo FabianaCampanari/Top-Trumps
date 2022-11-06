@@ -1,34 +1,34 @@
 # 🃏 Top-Trumps
 
-Creation of the Top Trumps game where the theme and cards were inspired by great names responsible for the technology revolution and whom I have enormous admiration. I confess that I was touched several times during the production of this work and I dedicate it to Ada Lovelace to honor her contributions to humanity as one of the leading women in science and math.
+💫Creation of the Top Trumps game where the theme and cards were inspired by great names responsible for the technology revolution and whom I have enormous admiration. I confess that I was touched several times during the production of this work and I dedicate it to Ada Lovelace to honor her contributions to humanity as one of the leading women in science and math.
 If you want to play, Please be my guest!
 
-ps: I suggest full screen mode to enhance experience.
-
-< made with love & joy />
+💫ps: I suggest full screen mode to enhance experience.
 
 
+🤎< made with love & joy />
 
-SPECS:
 
-Array(list) where the first index of a list is ALWAYS 0 .
+📌SPECS:
 
-Commands:
+✨Array(list) where the first index of a list is ALWAYS 0 .
 
--for ( ) { } - JS command for list repetition.
+✨Commands:
 
--Loop : main structure that determines if it is executable or not.
+✨for ( ) { } - JS command for list repetition.
 
--Arrays Iteration = JS Repetition Structure.
+✨Loop : main structure that determines if it is executable or not.
 
-| var i | var i < | i++ | = | beginning | condition | end (loop iteration) |
+✨Arrays Iteration = JS Repetition Structure.
 
--Logic Structure (while) is the condition used in place of if as a determinant that if the code sequence is false the (while) will not be executed.
+✨| var i | var i < | i++ | = | beginning | condition | end (loop iteration) |
 
--Command (while) executes only while the condition is true.
+✨Logic Structure (while) is the condition used in place of if as a determinant that if the code sequence is false the (while) will not be executed.
 
--LOOP - Structure of Repetition of ARRAYS.
+✨Command (while) executes only while the condition is true.
 
--Images, HTML and CSS manipulation.
+✨LOOP - Structure of Repetition of ARRAYS.
 
--Use of Functions to integrate HTML and JS.
+✨Images, HTML and CSS manipulation.
+
+✨Use of Functions to integrate HTML and JS.
