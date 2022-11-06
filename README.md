@@ -23,7 +23,7 @@ If you want to play, Please be my guest!
 
 ✨| var i | var i < | i++ | = | beginning | condition | end (loop iteration) |
 
-✨Logic Structure (while) is the condition used in place of if as a determinant that if the code sequence is false the (while) will not be executed.
+✨Logic Structure (while) is the condition used in place of "if" as a determinant that if the code sequence is false the (while) will not be executed.
 
 ✨Command (while) executes only while the condition is true.
 
