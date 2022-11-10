@@ -13,10 +13,6 @@ The author only allows the visualization of the code and any use of it, in whole
 O autor permite apenas a visualização do código sendo proibida qualquer utilização do mesmo, no todo ou em parte.
 
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
-
                             Preamble
 
   The GNU Affero General Public License is a free, copyleft license for
