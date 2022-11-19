@@ -7,8 +7,10 @@ If you want to play, Please be my guest!
 
 
 🤎< made with love & joy />
+____________________________________________________________________________________________________________________
+![Top Trumps Thumb](https://user-images.githubusercontent.com/113218619/202858402-a9251f4d-d2ba-4d93-a8ad-78c77071240c.png)
 
-
+____________________________________________________________________________________________________________________
 📌SPECS:
 
 ✨Array(list) where the first index of a list is ALWAYS 0 .
