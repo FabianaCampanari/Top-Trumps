@@ -37,3 +37,14 @@ ________________________________________________________________________________
 ✨Images, HTML and CSS manipulation.
 
 ✨Use of Functions to integrate HTML and JS.
+____________________________________________________________________________________________________________________
+🔴 Copyright (c) 2022, Fabiana Campanari. 
+   All rights reserved.
+
+The author only allows the visualization of the code and any use of it in whole or in part  is prohibited.
+
+🔴 Copyright (c) 2022, Fabiana Campanari.
+   Todos os direitos reservados.
+
+O autor permite apenas a visualização do código sendo proibida qualquer utilização do mesmo, no todo ou em parte.
+
