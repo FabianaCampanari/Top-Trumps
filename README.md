@@ -33,17 +33,17 @@ ________________________________________________________________________________
 
 ✨Command (while) executes only while the condition is true.
 
-✨LOOP - Structure of Repetition of ARRAYS.
+✨ Structure of Repetition of ARRAYS.
 
 ✨Images, HTML and CSS manipulation.
 
 ✨Use of Functions to integrate HTML and JS.
 ____________________________________________________________________________________________________________________
-🏮 Copyright (c) 2022, Fabiana Campanari. 
+🔅 Copyright (c) 2022, Fabiana Campanari. 
    All rights reserved.
 
 
-🏮 Copyright (c) 2022, Fabiana Campanari.
+🔅 Copyright (c) 2022, Fabiana Campanari.
    Todos os direitos reservados.
 
 
