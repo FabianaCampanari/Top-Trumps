@@ -1,12 +1,13 @@
 🀄️ Top-Trumps
 
-💫Creation of the Top Trumps game where the theme and cards were inspired by great names responsible for the technology revolution and whom I have enormous admiration. I confess that I was touched several times during the production of this work and I dedicate it to Ada Lovelace to honor her contributions to humanity as one of the leading women in science and math.
-If you want to play, Please be my guest!
+✨ Creation of the Top Trumps game where the theme and cards were inspired by great names responsible for the technology revolution and whom I have enormous admiration. I confess that I was touched several times during the production of this work and I dedicate it to Ada Lovelace to honor her contributions to humanity as one of the leading women in science and math.
 
-💫ps: I suggest full screen mode to enhance experience.
+✨ If you want to play, Please be my guest!
+
+✨ ps: I suggest full screen mode to enhance experience.
 
 
-🤎< made with love & joy />
+🤎  < made with love & joy />
 ____________________________________________________________________________________________________________________
 ![Top Trumps Thumb](https://user-images.githubusercontent.com/113218619/202858402-a9251f4d-d2ba-4d93-a8ad-78c77071240c.png)
 
