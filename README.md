@@ -39,11 +39,11 @@ ________________________________________________________________________________
 
 ✨Use of Functions to integrate HTML and JS.
 ____________________________________________________________________________________________________________________
-🔴 Copyright (c) 2022, Fabiana Campanari. 
+🏮 Copyright (c) 2022, Fabiana Campanari. 
    All rights reserved.
 
 
-🔴 Copyright (c) 2022, Fabiana Campanari.
+🏮 Copyright (c) 2022, Fabiana Campanari.
    Todos os direitos reservados.
 
 
