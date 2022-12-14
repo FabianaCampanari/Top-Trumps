@@ -40,6 +40,8 @@ ________________________________________________________________________________
 ✨Use of Functions to integrate HTML and JS.
 ____________________________________________________________________________________________________________________
 
+⚖️ -Fabiana Campanari License
+
  Copyright (c) 2022 Fabiana Campanari.
 
  Todos os direitos Resevados (c) 2022 Fabiana Campanari.
