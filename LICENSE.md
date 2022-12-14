@@ -1,12 +1,11 @@
-⚖️ -Fabiana Campanari Copyright License
+⚖️ Fabiana Campanari Copyright License
 
- -Copyright (c) 2022 Fabiana Campanari.
+ Copyright (c) 2022 Fabiana Campanari.
 
- -Todos os direitos Resevados (c) 2022 Fabiana Campanari.
+ Todos os direitos Resevados (c) 2022 Fabiana Campanari.
 
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+-   Conditions:
 
 1. Redistributions of source code must retain the above copyright notice, this
    list of conditions and the following disclaimer.
