@@ -1,4 +1,4 @@
-BSD 3-Clause License
+⚖️ -Fabiana Campanari Copyright License
 
 🔅 Copyright (c) 2022 Fabiana Campanari
 
