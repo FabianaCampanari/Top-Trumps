@@ -44,7 +44,7 @@
 ✨Images, HTML and CSS manipulation.
 
 ✨Use of Functions to integrate HTML and JS.
-_________________________________
+____________________________
 
 ⚖️ Fabiana Campanari License
 
