@@ -19,7 +19,7 @@
 
 #
 
-📌 SPECS:
+ <p align="center"> 📌 SPECS: </p>
 
 ✨Array(list) where the first index of a list is ALWAYS 0 .
 
