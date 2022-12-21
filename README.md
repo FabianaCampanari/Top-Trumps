@@ -18,7 +18,7 @@
 🚀 https://fabianacampanari.github.io/Top-Trumps/
 
 #
-____________
+_________
 📌 SPECS:
 
 ✨Array(list) where the first index of a list is ALWAYS 0 .
