@@ -11,7 +11,9 @@
   
   #
 
-![Top Trumps Thumb](https://user-images.githubusercontent.com/113218619/202858402-a9251f4d-d2ba-4d93-a8ad-78c77071240c.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/113218619/202858402-a9251f4d-d2ba-4d93-a8ad-78c77071240c.png" />
+</p>
 
 #
 
