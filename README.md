@@ -15,7 +15,7 @@
 
 #
 
-🚀 https://fabianacampanari.github.io/Top-Trumps/
+ <p align="center"> 🚀 https://fabianacampanari.github.io/Top-Trumps/ </p>
 
 #
 
