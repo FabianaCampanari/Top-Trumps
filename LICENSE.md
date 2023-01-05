@@ -5,7 +5,7 @@
  Todos os direitos Resevados (c) 2022 Fabiana Campanari.
 
 
--   Conditions:
+-  Conditions:
 
 1. Redistributions of source code must retain the above copyright notice, this
    list of conditions and the following disclaimer.
