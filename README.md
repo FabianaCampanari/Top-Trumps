@@ -23,7 +23,7 @@
 
  <p align="center"> 📌 SPECS: </p>
 
-✨Array(list) where the first index of a list is ALWAYS 0 .
+✨Array (list) where the first index of a list is ALWAYS 0 .
 
 ✨Commands:
 
