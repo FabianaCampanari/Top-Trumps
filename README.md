@@ -15,7 +15,7 @@
 <img src="" />
 </p>
 
-![Top Trumps Thumbnail](https://user-images.githubusercontent.com/113218619/214084868-12b5c0de-47c1-4614-a43f-d59d99e2eb6f.png)
+
 #
 
  <p align="center"> 🚀 https://fabianacampanari.github.io/Top-Trumps/ </p>
