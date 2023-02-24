@@ -7,7 +7,7 @@
 ✨ ps: I suggest full screen mode to enhance experience.
 
 
-  <p align="center"> < made with love & joy />🤎 </p>
+  <p align="center"> < made with love & joy /> 🤎 </p>
   
   #
 
