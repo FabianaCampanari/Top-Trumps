@@ -50,6 +50,6 @@
 <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
 
 
-
+GNU Affero General Public License v3.0
 
 
