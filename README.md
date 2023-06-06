@@ -46,7 +46,8 @@
 
 #
 
-<p align="center"> ⚖︎ This project is licensed under the GNU Affero General Public License v3.0. </p>
+<p align="center"> ⚖︎ This project is licensed under the AGPL-3.0 license. </p>
+
 <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
 
 
