@@ -53,9 +53,7 @@ _Array (list) where the first index of a list is ALWAYS 0._
 
 #
 
-#####  <p align="center"> ⚖︎ This project is licensed under the AGPL-3.0 License. Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
-
-###### <p align="center"> ⚖︎ This project is licensed under the MIT License. <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
+###### <p align="center"> ⚖︎ This project is licensed under the AGPL-3.0 License. <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
 
 
 
