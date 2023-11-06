@@ -24,6 +24,9 @@ ps: I suggest full screen mode to enhance experience.
 
 <p align="center">  🚀 https://fabianacampanari.github.io/Top-Trumps/ </p> 
 
+### <p align="center"> [Top Trumps - Play Here](https://fabianacampanari.github.io/Top-Trumps)
+
+
  
 #
 
