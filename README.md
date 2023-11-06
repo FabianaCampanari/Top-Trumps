@@ -10,7 +10,7 @@
 
 
 
- <p align="center"> < made with love & joy /> 🧡 </p>
+ <p align="center"> < made with love & joy /> 🪬 </p>
   
   #
 
@@ -22,8 +22,7 @@
 #
 
  <p align="center">  🚀 https://fabianacampanari.github.io/Top-Trumps/ </p> 
- [Top Trumps - Play Here](https://fabianacampanari.github.io/Top-Trumps)
-
+ 
 #
 
  <p align="center"> 📌 SPECS: </p>
