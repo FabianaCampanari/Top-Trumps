@@ -9,9 +9,6 @@ If you want to play... Please be my guest !
 
 ps: I suggest full screen mode to enhance experience.
 
-🚀 [Top Trumps - Play Here](https://fabianacampanari.github.io/Top-Trumps)
-
-
 
  <p align="center"> < made with love & joy /> 🪬 </p>
   
