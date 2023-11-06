@@ -55,6 +55,9 @@ ps: I suggest full screen mode to enhance experience.
 
 #####  <p align="center"> ⚖︎ This project is licensed under the AGPL-3.0 License. Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
 
+###### <p align="center"> ⚖︎ This project is licensed under the MIT License. <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
+
+
 
 
 
