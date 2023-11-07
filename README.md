@@ -8,6 +8,7 @@ Creation of the Top Trumps game where the theme and cards were inspired by great
 If you want to play... Please be my guest !
 
 ps: I suggest full screen mode to enhance experience.
+
 <br>
 
  <p align="center"> < made with love & joy /> 🪬 </p>
