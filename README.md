@@ -29,7 +29,7 @@ ps: I suggest full screen mode to enhance experience.
  <p align="center"> 📌 SPECS: </p>
  <br>
 
-_Array (list) where the first index of a list is ALWAYS 0._
+Array (list) where the first index of a list is ALWAYS 0.
 
 ✨Commands:
 
