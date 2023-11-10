@@ -1,0 +1,11 @@
+- name: TruffleHog
+  uses: trufflesecurity/trufflehog@main
+  with:
+    # Repository path
+    path:
+    # Start scanning from here (usually main branch).
+    base:
+    # Scan commits until here (usually dev branch).
+    head: # optional
+    # Extra args to be passed to the trufflehog cli.
+    extra_args: --debug --only-verified
