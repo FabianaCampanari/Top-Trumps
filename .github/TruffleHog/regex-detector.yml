@@ -1,0 +1,13 @@
+# config.yaml
+detectors:
+  - name: hog detector
+    keywords:
+      - hog
+    regex:
+      adjective: hogs are (\S+)
+    verify:
+      - endpoint: http://localhost:8000/
+        # unsafe must be set if the endpoint is HTTP
+        unsafe: true
+        headers:
+          - "Authorization: super secret authorization header"
