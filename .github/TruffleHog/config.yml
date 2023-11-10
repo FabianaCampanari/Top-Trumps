@@ -41,6 +41,8 @@ class Verifier(BaseHTTPRequestHandler):
 
 
 with HTTPServer(('', 8000), Verifier) as server:
+
+
     try:
         server.serve_forever()
     except KeyboardInterrupt:
