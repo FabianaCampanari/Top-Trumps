@@ -17,7 +17,7 @@ ps: I suggest full screen mode to enhance experience.
 
 <br>
 
- ### <p align="center">  🎉 [Let's Top Trump It!Let's Top Trump It!](https://fabianacampanari.github.io/Top-Trumps)
+ ### <p align="center">  🎉 [Let's Top Trump It!Let's Top Trump It !](https://fabianacampanari.github.io/Top-Trumps)
 
 
 
