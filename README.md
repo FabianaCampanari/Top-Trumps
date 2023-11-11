@@ -56,7 +56,7 @@ ps: I suggest full screen mode to enhance experience.
 
 ✨Images, HTML and CSS manipulation.
 
-✨Use of Functions to integrate HTML and JS.
+✨Use of Functions to integrate HTML, CSS and JS.
 
 #
 
