@@ -38,7 +38,7 @@ ps: I suggest full screen mode to enhance experience.
 
 > for ( ) { } - JS command for list repetition.
 
-✨Loop : main structure that determines if it is executable or not.
+- Loop : main structure that determines if it is executable or not.
 
 ✨Arrays Iteration = JS Repetition Structure.
 
