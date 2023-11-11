@@ -52,6 +52,8 @@ ps: I suggest full screen mode to enhance experience.
 
 - while () executes only while the condition is true.
 
+<br>
+
 
 
 ✨Images, HTML and CSS manipulation.
