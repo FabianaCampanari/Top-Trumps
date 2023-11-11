@@ -34,7 +34,7 @@ ps: I suggest full screen mode to enhance experience.
 
 Array (list) where the first index of a list is ALWAYS 0.
 
-✨Commands:
+> Commands:
 
 ✨for ( ) { } - JS command for list repetition.
 
