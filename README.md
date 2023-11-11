@@ -35,7 +35,7 @@ ps: I suggest full screen mode to enhance experience.
 
 > Commands:
 
-> for ( ) { } - JS command for list repetition.
+- for ( ) { } - JS command for list repetition.
 
 - Loop : main structure that determines if it is executable or not.
 
