@@ -47,8 +47,6 @@ ps: I suggest full screen mode to enhance experience.
 
 ✨Command (while) executes only while the condition is true.
 
-✨ Structure of Repetition of ARRAYS.
-
 ✨Images, HTML and CSS manipulation.
 
 ✨Use of Functions to integrate HTML and JS.
