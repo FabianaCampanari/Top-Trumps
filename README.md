@@ -44,6 +44,8 @@ ps: I suggest full screen mode to enhance experience.
 
 > Logic Structure (while) is the condition used in place of "if" as a determinant that if the code sequence is false the (while) will not be executed.
 
+<br>
+
 > Commands:
 
 - for ()- JS command for list repetition.
