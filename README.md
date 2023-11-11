@@ -46,7 +46,7 @@ ps: I suggest full screen mode to enhance experience.
 
 - for ()- JS command for list repetition.
 
-while () executes only while the condition is true.
+- while () executes only while the condition is true.
 
 ✨Logic Structure (while) is the condition used in place of "if" as a determinant that if the code sequence is false the (while) will not be executed.
 
