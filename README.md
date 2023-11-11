@@ -36,11 +36,12 @@ ps: I suggest full screen mode to enhance experience.
 
 - Array (list) where the first index of a list is ALWAYS 0.
 
+- Loop : main structure that determines if it is executable or not.
+
 > Commands:
 
 - for ( ) { } - JS command for list repetition.
 
-- Loop : main structure that determines if it is executable or not.
 
 
 - | var i | var i < | i++ | = | beginning | condition | end (loop iteration) |
