@@ -41,7 +41,7 @@ ps: I suggest full screen mode to enhance experience.
 
 > Arrays Iteration = JS Repetition Structure.
 
-✨| var i | var i < | i++ | = | beginning | condition | end (loop iteration) |
+- | var i | var i < | i++ | = | beginning | condition | end (loop iteration) |
 
 
 ✨Command (while) executes only while the condition is true.
