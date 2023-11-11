@@ -40,6 +40,8 @@ ps: I suggest full screen mode to enhance experience.
 
 - | var i | var i < | i++ | = | beginning | condition | end (loop iteration) |
 
+<br>
+
 > Commands:
 
 - for ( ) { } - JS command for list repetition.
