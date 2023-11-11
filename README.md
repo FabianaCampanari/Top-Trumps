@@ -31,7 +31,10 @@ ps: I suggest full screen mode to enhance experience.
 
 #### <p align="center"> 📌 SPECS: </p>
 
-> Array (list) where the first index of a list is ALWAYS 0.
+
+> Arrays Iteration = JS Repetition Structure.
+
+- Array (list) where the first index of a list is ALWAYS 0.
 
 > Commands:
 
@@ -39,7 +42,6 @@ ps: I suggest full screen mode to enhance experience.
 
 - Loop : main structure that determines if it is executable or not.
 
-> Arrays Iteration = JS Repetition Structure.
 
 - | var i | var i < | i++ | = | beginning | condition | end (loop iteration) |
 
