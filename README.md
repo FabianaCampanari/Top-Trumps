@@ -54,6 +54,8 @@ ps: I suggest full screen mode to enhance experience.
 
 <br>
 
+> Functions to integrate HTML, CSS and JS.
+
 Images, HTML and CSS manipulation.
 
 
