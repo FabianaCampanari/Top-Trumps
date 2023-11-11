@@ -38,13 +38,14 @@ ps: I suggest full screen mode to enhance experience.
 
 - Loop : main structure that determines if it is executable or not.
 
+- | var i | var i < | i++ | = | beginning | condition | end (loop iteration) |
+
 > Commands:
 
 - for ( ) { } - JS command for list repetition.
 
 
 
-- | var i | var i < | i++ | = | beginning | condition | end (loop iteration) |
 
 
 ✨Command (while) executes only while the condition is true.
