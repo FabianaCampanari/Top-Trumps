@@ -29,7 +29,7 @@ ps: I suggest full screen mode to enhance experience.
 
 <br>
 
- <p align="center"> 📌 SPECS: </p>
+#### <p align="center"> 📌 SPECS: </p>
  <br>
 
 > Array (list) where the first index of a list is ALWAYS 0.
