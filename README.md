@@ -60,7 +60,6 @@ ps: I suggest full screen mode to enhance experience.
 
 - Images, HTML and CSS manipulation.
 
-
 #
 
 ###### <p align="center"> ⚖︎ This project is licensed under the AGPL-3.0 License. <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
