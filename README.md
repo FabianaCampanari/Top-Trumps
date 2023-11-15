@@ -62,7 +62,7 @@ ps: I suggest full screen mode to enhance experience.
 
 #
 
-##### <p align="center"> Copyright 2023 Fabiana Campanari. Code released under the MIT license.
+###### <p align="center"> Copyright 2023 Fabiana Campanari. Code released under the MIT license.
  
 
 
