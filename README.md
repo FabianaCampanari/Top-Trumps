@@ -62,8 +62,8 @@ ps: I suggest full screen mode to enhance experience.
 
 #
 
-###### <p align="center"> ⚖︎ This project is licensed under the AGPL-3.0 License. <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
-
+##### <p align="center"> Copyright 2023 Fabiana Campanari. Code released under the MIT license.
+ 
 
 
 
