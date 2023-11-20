@@ -66,9 +66,8 @@ ps: I suggest full screen mode to enhance experience.
 
 #
 
-###### <p align="center"> [Copyright 2023 Fabiana Campanari. Code released under the  AGPL-3.0 license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/9bc7ac46f8c38e95344ba3dac8cb07c527bb5226/LICENSE)
+###### <p align="center"> [Copyright 2023 Fabiana Campanari. Code released under the  AGPL-3.0 license.](https://github.com/FabianaCampanari/Top-Trumps/blob/a1dcba0c602ed5e513faa1f02726344adadce504/LICENSE)
  
-
 
 
 
