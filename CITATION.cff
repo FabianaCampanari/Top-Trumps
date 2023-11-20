@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Fabiana Campanari repository
+message: If you really want to cite this repository, here's how you should cite it.
+type: software
+authors:
+  - given-names: Fabiana
+    family-names: Campanari
+    orcid: https://orcid.org/1234-5678-9101-1121
+repository-code: https://github.com/FabianaCampanari/Top-Trumps
+license: AGPL-3.0 license
