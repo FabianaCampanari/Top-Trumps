@@ -19,6 +19,10 @@ ps: I suggest full screen mode to enhance experience.
 
  ### <p align="center">  🚀 [Let's Top Trump It !](https://fabianacampanari.github.io/Top-Trumps)
 
+ <br><br>
+
+
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/113218619/214085733-1a176b90-d717-4dbf-b420-98cbf733fdf8.png" />
 </p>
