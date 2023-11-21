@@ -37,6 +37,7 @@ ps: I suggest full screen mode to enhance experience.
 
 #### <p align="center"> 📌 SPECS: </p>
 
+<br>
 
 > Arrays Iteration = JS Repetition Structure.
 
