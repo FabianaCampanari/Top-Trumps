@@ -12,7 +12,7 @@ ps: I suggest full screen mode to enhance experience.
 
 <br>
 
- #### <p align="center"> ***< with vibe, frequency & joy />*** 💎</p> 
+ #### <p align="center"> ***< made with vibe, frequency & joy />*** 💎</p> 
  
   #
 
