@@ -56,7 +56,7 @@ var carta5 = {
 var carta6 = {
   nome: "Nilkola Tesla",
   imagem:
-    "https://www.greenmebrasil.com/wp-content/uploads/2017/06/nikola_tesla-1200x900.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_circa_1890.jpeg/460px-Tesla_circa_1890.jpeg",
   atributos: {
     creative: 4,
     visionary: 4,
