@@ -1,0 +1,18 @@
+            - name: Rational Integration Tester GitHub Action
+  # You may pin to the exact commit or the version.
+  # uses: IBM/devopsauto-integrtest-actions@5096cad49a7c728d0de5931481f5567254c70a70
+  uses: IBM/devopsauto-integrtest-actions@v1
+  with:
+    # The fully qualified path to Rational Integration Tester project directory. This value will be ignored if parameterFile field is used.
+    projectDir: 
+    # The name of the API test project. This value will be ignored if parameterFile field is used.
+    projectName: 
+    # The API Test environment to use for this execution. This value will be ignored if parameterFile field is used.
+    environment: 
+    # Semicolon separated list of tests/suites to run. This value will be ignored if parameterFile field is used.
+    tests: 
+    # The fully qualified path to a parameter file that contains project, environment, and run arguments for one or more tests.
+    parameterFile: # optional
+    # Specify the folder to export the JUnit reports to.
+    junitDir: # optional
+          
