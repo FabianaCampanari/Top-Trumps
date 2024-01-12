@@ -1,0 +1,10 @@
+            - name: action-git-diff-suggestions
+  # You may pin to the exact commit or the version.
+  # uses: getsentry/action-git-diff-suggestions@8c75946d0d7bbe80a92cf3579d544321512c30b7
+  uses: getsentry/action-git-diff-suggestions@v1
+  with:
+    # github token
+    github-token: # optional
+    # The message to prepend the review suggestion
+    message: # optional
+          
