@@ -5,5 +5,5 @@
   "dependencies": {
     "@primer/css": "21.1.1"
   },
-  "license": "MIT"
+  "license": "AGPL-3.0 license"
 }
