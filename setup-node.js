@@ -8,7 +8,7 @@ inputs:
   node-version:
     description: 'Version Spec of the version to use. Examples: 12.x, 10.15.1, >=10.15.0.'
   node-version-file:
-    description: 'File containing the version Spec of the version to use.  Examples: .nvmrc, .node-version, .tool-versions.'
+    description: 'File containing the version Spec of the version to use. Examples: .nvmrc, .node-version, .tool-versions.'
   architecture:
     description: 'Target architecture for Node to use. Examples: x86, x64. Will use system architecture by default.'
   check-latest:
@@ -19,16 +19,14 @@ inputs:
   scope:
     description: 'Optional scope for authenticating against scoped registries. Will fall back to the repository owner when using the GitHub Packages registry (https://npm.pkg.github.com/).'
   token:
-    description: Used to pull node distributions from node-versions. Since there's a default, this is typically not supplied by the user. When running this action on github.com, the default value is sufficient. When running on GHES, you can pass a personal access token for github.com if you are experiencing rate limiting.
+    description: 'Used to pull node distributions from node-versions. Since there\'s a default, this is typically not supplied by the user. When running this action on github.com, the default value is sufficient. When running on GHES, you can pass a personal access token for github.com if you are experiencing rate limiting.'
     default: ${{ github.server_url == 'https://github.com' && github.token || '' }}
   cache:
     description: 'Used to specify a package manager for caching in the default directory. Supported values: npm, yarn, pnpm.'
   cache-dependency-path:
     description: 'Used to specify the path to a dependency file: package-lock.json, yarn.lock, etc. Supports wildcards or a list of file names for caching multiple dependencies.'
-# TODO: add input to control forcing to pull from cloud or dist.
-#       escape valve for someone having issues or needing the absolute latest which isn't cached yet
 outputs:
-  cache-hit: 
+  cache-hit:
     description: 'A boolean value to indicate if a cache was hit.'
   node-version:
     description: 'The installed node version.'
@@ -37,4 +35,3 @@ runs:
   main: 'dist/setup/index.js'
   post: 'dist/cache-save/index.js'
   post-if: success()
-  
