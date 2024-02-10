@@ -1,0 +1,11 @@
+{
+  "name": "demo-repo",
+  "version": "0.2.0",
+  "description": "A sample package.json",
+  "dependencies": {
+    "@primer/css": "21.1.1"
+  },
+  "license": "MIT"
+}
+
+
