@@ -343,3 +343,4 @@ function reiniciar() {
   cartasDaMaquina = [];
   cartasDoJogador = [];
 }
+
