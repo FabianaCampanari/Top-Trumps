@@ -26,6 +26,9 @@ ps: I suggest full screen mode to enhance experience.
 <img src="https://user-images.githubusercontent.com/113218619/214085733-1a176b90-d717-4dbf-b420-98cbf733fdf8.png" />
 </p>
 
+![Image](https://github.com/user-attachments/assets/e308601b-2e5c-43d7-942d-4c73c6d18b24)
+
+
 <br>
 
  #### <p align="center"> [💭  Get in Touch](https://share.hsforms.com/1ZACnVoYSTLC-NOoHcg22cgq9urk)
