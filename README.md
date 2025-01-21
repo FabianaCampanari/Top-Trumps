@@ -30,6 +30,11 @@ ps: I suggest full screen mode to enhance experience.
 <img src="https://github.com/user-attachments/assets/e308601b-2e5c-43d7-942d-4c73c6d18b24" />
 </p>
 
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/e308601b-2e5c-43d7-942d-4c73c6d18b24" width="600" height="auto" />
+</p>
+
 https://github.com/user-attachments/assets/2a7fb9a1-cf81-49dc-a030-d91c02b8db47
 
 
