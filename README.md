@@ -28,6 +28,8 @@ ps: I suggest full screen mode to enhance experience.
 
 ![Image](https://github.com/user-attachments/assets/e308601b-2e5c-43d7-942d-4c73c6d18b24)
 
+https://github.com/user-attachments/assets/2a7fb9a1-cf81-49dc-a030-d91c02b8db47
+
 
 <br>
 
